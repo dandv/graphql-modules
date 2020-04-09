@@ -26,7 +26,7 @@
   "devDependencies": {
     "apollo-cache-inmemory": "1.6.5",
     "apollo-client": "2.6.8",
-    "apollo-link-schema": "1.2.4",
+    "apollo-link-schema": "1.2.5",
     "bob-the-bundler": "0.3.4",
     "graphql-tag": "2.10.3",
     "jest": "25.3.0",
